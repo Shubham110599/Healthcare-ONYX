@@ -1,11 +1,11 @@
 
-📊 Healthcare Insights Dashboard – ONYX DataDNA Challenge (April 2025)
+## 📊 Healthcare Insights Dashboard – ONYX DataDNA Challenge (April 2025)
 
 A comprehensive and interactive Power BI report analyzing 55,000+ patient records from 10 U.S. hospitals. 
 Built for the ZoomCharts + Onyx DataDNA April 2025 Challenge, 
 this dashboard provides deep healthcare insights using, powerful DAX logic, and effective storytelling.
 
- 🚀 Objective
+## 🚀 Objective
 
 To uncover actionable insights in healthcare using Power BI — 
 identifying trends in patient demographics, common diagnoses, hospital performance, treatment costs, 
@@ -13,7 +13,7 @@ medication patterns, and insurance impacts.This report aims to support better de
 policymakers, and insurance providers.
 
 
-📈 Outcomes & Impact
+## 📈 Outcomes & Impact
 
 🔍 Analyzed over **55,000** unique patient records across **10 hospitals**
 📉 Identified that urgent admissions led to **32% higher treatment costs** on average than planned admissions
@@ -25,7 +25,7 @@ policymakers, and insurance providers.
 📍 Visualized regional trends showing **East Coast hospitals billing 20% higher on average** than Midwest hospitals
 
 
-📁 Files Included
+## 📁 Files Included
 
 | File                               | Description                                         |
 | ---------------------------------- | --------------------------------------------------- |
@@ -37,7 +37,7 @@ policymakers, and insurance providers.
 | `READ ME BEFORE PARTICIPATING.txt` | Submission rules and social sharing guidelines      |
 | `Header.png`                       | Custom banner for social sharing and dashboard      |
 
-🧩 Key Features
+## 🧩 Key Features
 
 * **📍 Location-Based Analysis:** Interactive map shows hospital locations and regional health patterns
 * **📊 ZoomCharts Visuals:** Used 3 Drill Down visuals (Combo, Pie, TimeSeries) for a smooth user experience
@@ -52,7 +52,7 @@ policymakers, and insurance providers.
 * **🏥 Hospital Performance:** Compare patient outcomes, volumes, and billing metrics
 
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 * **Power BI Desktop (Import mode)**
 * **ZoomCharts Drill Down PRO Visuals**
