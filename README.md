@@ -15,14 +15,14 @@ policymakers, and insurance providers.
 
 ## 📈 Outcomes & Impact
 
-🔍 Analyzed over **55,000** unique patient records across **10 hospitals**
-📉 Identified that urgent admissions led to **32% higher treatment costs** on average than planned admissions
-📊 Revealed **5 most common diagnoses**, with clear demographic segmentation
-⏳ Mapped **average hospital stay duration by condition**, showing a **25% variance across admission types**
-💊 Highlighted inconsistencies in medication use across hospitals for the same conditions
-🏥 Ranked hospitals by patient outcomes, revealing that **Hospital 4 had 18% shorter average stays** with better test results
-💵 Identified that **3 insurance providers** covered **60%+ of all patients**, with drastically different reimbursement trends
-📍 Visualized regional trends showing **East Coast hospitals billing 20% higher on average** than Midwest hospitals
+* **🔍 Analyzed over **55,000** unique patient records across **10 hospitals**
+* **📉 Identified that urgent admissions led to **32% higher treatment costs** on average than planned admissions
+* **📊 Revealed **5 most common diagnoses**, with clear demographic segmentation
+* **⏳ Mapped **average hospital stay duration by condition**, showing a **25% variance across admission types**
+* **💊 Highlighted inconsistencies in medication use across hospitals for the same conditions
+* **🏥 Ranked hospitals by patient outcomes, revealing that **Hospital 4 had 18% shorter average stays** with better test results
+* **💵 Identified that **3 insurance providers** covered **60%+ of all patients**, with drastically different reimbursement trends
+* **📍 Visualized regional trends showing **East Coast hospitals billing 20% higher on average** than Midwest hospitals
 
 
 ## 📁 Files Included
